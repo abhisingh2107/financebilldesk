@@ -1,0 +1,2 @@
+# Replace the publisher ID below with your own AdSense ID (without "ca-"), then keep this file at your site root.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
